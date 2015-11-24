@@ -1,0 +1,2 @@
+# .Xresources.d
+mine
